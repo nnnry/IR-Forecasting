@@ -1,5 +1,5 @@
-File structure:
-Gdelt_for_thesis
+File structure:  
+
     ├───CleanData               //Clean data from 201304 to 202305.
     ├───Doc                     //Documents and helpful informations.
     ├───Demo                    //Demo folder for test codes.
@@ -11,4 +11,3 @@ Gdelt_for_thesis
 
         data_cleasing.py        //Clean data located in Source to NewCleanData
         data_processing.py      //Process clean data to OrderedData.
-        README.md               //What you see.
